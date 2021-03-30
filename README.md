@@ -1,1 +1,1 @@
-# Responsive_bulletin_board
+# 반응형 게시판
